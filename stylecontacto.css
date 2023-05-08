@@ -1,0 +1,28 @@
+/*PARRAFOS DE CONTACTO */
+p{
+    font-weight: bold;
+    font-size: 25px;
+}
+/*ITEMS CONTACTO */
+.sexocontacto{
+    font-size: 22px;
+    font-weight: 200;
+}
+/*BODY DE CONTACTOS*/
+.bodycontacto{
+    background-image: url("./imagenes/117396568_740221740144525_1399074358362280457_n.jpg");
+    background-size: cover;
+    border: 8px solid brown;
+}
+/*DISEÑO DE FOOTER*/
+footer{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h1{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
